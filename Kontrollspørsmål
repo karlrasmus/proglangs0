@@ -1,0 +1,10 @@
+LAB 1
+URL til nettsida med proglangs: https://github.com/karlrasmus/proglangs0.git
+
+Kontrollspørsmål is-104 10.09.13
+0) JavaScript kan brukes til å gjøre enn nettside mer dynamisk, altså at du får en form for respons når du klikker på noe. 
+1)  Ett element kan bare ha 1 ID, mens en "class" kan brukes flere ganger på ett element, eller det kan brukes flere element i en "class"
+2) Brukbarheten til deloppgave 1 er mye bedre siden den tar ikke så mye plass på en side og hvis du kan søke alfabetisk i enn slik liste, som du ofte kan er det mye lettere. Selv om du med en liste som du får i oppgave 0, kan du bare bruke "ctrl+f" og søke på det du skal finne så har du det med en gang. 
+3) Det første de gjør er å dele de inn alfabetisk med klar skille mellom bokstavene, så bruker de ikke bare enn loddrett liste, de bruker også vannrett slik at det blir en bedre oversikt. 
+4) div blir brukt til å avgrense deler av ett dokument, mens span ofte brukes til å avgrense en liten porsjon med tekst. Span er "inline", mens div er ett "block" element. 
+5) Skjønner ikke spørsmålet... 
